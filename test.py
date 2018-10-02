@@ -15,4 +15,5 @@ def to_find(x):
                 x = x+1
 
 x = 1000000
+print("alohmora")
 to_find(x)
