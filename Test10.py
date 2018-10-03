@@ -1,2 +1,2 @@
 print("hello HacktoberFest")
-print("wassup?"
+print("wassup?")
