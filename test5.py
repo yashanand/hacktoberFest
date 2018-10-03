@@ -1,4 +1,4 @@
-##outputs source code of url
+##outputs source code of url only
 
 #!/usr/bin/env python
 
