@@ -1,4 +1,4 @@
-#casear cipher decoder RIGHT SHIFT
+#caesar cipher decoder RIGHT SHIFT
 
 decrypt =''
 encrypt =''
