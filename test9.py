@@ -1,4 +1,4 @@
-##ceating window(GUI:frontend) using tkinter module
+##creating window(GUI:frontend) using tkinter module
 
 from tkinter import *
 
