@@ -13,5 +13,6 @@ def to_find(x):
                 x = x+1
 
 x = 1000000
-// this is awesome
 to_find(x)
+
+print(x)
