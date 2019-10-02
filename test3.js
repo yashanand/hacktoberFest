@@ -1,4 +1,4 @@
-#casear cipher decoder RIGHT SHIFT
+#caesar cipher decoder RIGHT SHIFT
 
 decrypt =''
 encrypt =''
@@ -12,5 +12,5 @@ for letter in encrypt:
                 decrypt += chr((ord(letter) - 65 - key) % 26 + 65)
         else:
                 decrypt +=letter
-print("DECRYPTED MESSAGE:- ")
+print("DECRYPTED MESSAGE:- ") //print decrypted message
 print(decrypt)

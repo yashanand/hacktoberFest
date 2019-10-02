@@ -1,5 +1,3 @@
-# HACKTOBERFEST
-
 This repo is made for the python program.
 
 ## How to make PR request ?
@@ -9,3 +7,7 @@ This repo is made for the python program.
 4. Make your changes.
 5. Push the code.
 6. Now Make PR request from your fork repo.
+This Project is to qualify for Hacktoberfest 2018.
+Simply change something and make a pull request.
+
+![Hacktober Logo ](https://raw.githubusercontent.com/asangam/HacktoberFest2018/master/hacktober_log.png)
