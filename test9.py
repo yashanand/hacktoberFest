@@ -1,5 +1,5 @@
 ##creating window(GUI:frontend) using tkinter module
-
+import imutils
 from tkinter import *
 
 from PIL import Image, ImageTk
