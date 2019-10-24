@@ -30,3 +30,4 @@ echo
 echo 'thanks for playing this game!'
 echo
 echo 'developed/scripted by Naman R'
+echo
