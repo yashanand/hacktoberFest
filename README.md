@@ -1,4 +1,4 @@
-This repo is made for the python program.
+
 
 ## How to make PR request ?
 1. Fork the project to id.
