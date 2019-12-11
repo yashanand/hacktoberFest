@@ -14,6 +14,7 @@ def to_find(x):
                                 print(x)
                 x = x+1
 
-x = 1000000
+x = 100000012131
 print("alohmora")
+print("chech")
 to_find(x)
